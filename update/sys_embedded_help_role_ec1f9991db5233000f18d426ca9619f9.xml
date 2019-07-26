@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_82916_rentacar.Back_Office" name="x_82916_rentacar.Back_Office">f88e9991db5233000f18d426ca9619ee</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 15:16:21</sys_created_on>
+        <sys_id>ec1f9991db5233000f18d426ca9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f88e9991db5233000f18d426ca9619ee</sys_name>
+        <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ec1f9991db5233000f18d426ca9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 15:16:21</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

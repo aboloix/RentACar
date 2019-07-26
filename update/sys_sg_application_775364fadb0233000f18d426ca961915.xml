@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <default>false</default>
+        <description>Mobile app for Rent A Car</description>
+        <icon display_value="file-alt">6b5324fadb0233000f18d426ca9619db</icon>
+        <name>RentACar_Mobile</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 16:30:44</sys_created_on>
+        <sys_id>775364fadb0233000f18d426ca961915</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>RentACar_Mobile</sys_name>
+        <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+        <sys_update_name>sys_sg_application_775364fadb0233000f18d426ca961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 16:38:20</sys_updated_on>
+    </sys_sg_application>
+    <sys_translated_text action="delete_multiple" query="documentkey=775364fadb0233000f18d426ca961915"/>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Car" max_length="40" name="x_82916_rentacar_car" type="collection">
+        <element label="Car_ID" max_length="40" name="car_id" type="integer"/>
+        <element label="Color" max_length="40" name="color" type="string"/>
+        <element label="Make" max_length="40" name="make" type="string"/>
+        <element label="Mileage" max_length="40" name="mileage" type="integer"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="format=none" label="Year" max_length="6" name="year" type="integer"/>
+    </element>
+</database>

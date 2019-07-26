@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_82916_rentacar.ServiceNow201GlideAjax</api_name>
+        <client_callable>true</client_callable>
+        <description>Prototype code to test out GlideAjax</description>
+        <name>ServiceNow201GlideAjax</name>
+        <script><![CDATA[var ServiceNow201GlideAjax = Class.create();
+ServiceNow201GlideAjax.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	sayHello: function(){
+		return 'Hello from inside the ScriptInclude!!';
+	},
+	
+    type: 'ServiceNow201GlideAjax'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-03 12:44:37</sys_created_on>
+        <sys_id>4535727fdbc933000f18d426ca9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow201GlideAjax</sys_name>
+        <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+        <sys_update_name>sys_script_include_4535727fdbc933000f18d426ca9619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-03 12:44:37</sys_updated_on>
+    </sys_script_include>
+</record_update>

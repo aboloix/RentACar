@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_82916_rentacar.anotherDebuggingScript</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>anotherDebuggingScript</name>
+        <script><![CDATA[var anotherDebuggingScript = Class.create();
+anotherDebuggingScript.prototype = {
+    initialize: function() {
+    },
+	
+	callMe: function() {
+		var counter = 0;
+		var somevar = 1;
+		someVar++;
+		
+		while(someVar < 5) {
+			counter++;
+			someVar++;
+		}
+	},
+
+    type: 'anotherDebuggingScript'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-06 17:29:39</sys_created_on>
+        <sys_id>8ff35fb8db5133000f18d426ca961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>anotherDebuggingScript</sys_name>
+        <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+        <sys_update_name>sys_script_include_8ff35fb8db5133000f18d426ca961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-06 17:29:39</sys_updated_on>
+    </sys_script_include>
+</record_update>

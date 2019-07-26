@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Rent A Car">d3a2bd9ddb5233000f18d426ca961933</category>
+        <description>This application allows users to rent a car online.</description>
+        <device_type>browser</device_type>
+        <hint>Allows user to rent a car</hint>
+        <name>RentACar</name>
+        <order/>
+        <roles>x_82916_rentacar.user,x_82916_rentacar.Admin,x_82916_rentacar.Back_Office,x_82916_rentacar.Customer</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-23 21:48:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>540315f4db0533000f18d426ca9619f5</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Rent A Car Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+        <sys_update_name>sys_app_application_540315f4db0533000f18d426ca9619f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 16:42:44</sys_updated_on>
+        <title>Rent A Car Application</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-06-12 23:56:05</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 17:17:07</sys_created_on>
+        <sys_id>0174f534db0233000f18d426ca961960</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>fmkKfqpNpvo:APA91bG87w7ZPqBd9xL_Fta_1IW--K5tv7HR9Bi0y7h_yGKtrRl-A8qEgE0hHrnDp02H8SkilajkG-Ctd7-3F3CFTG1LhGNSwnT_3epBP6eOVzUFndzd8YT0eOtMUz-AtXVAES0alhQu</sys_name>
+        <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_0174f534db0233000f18d426ca961960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 23:56:05</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>fmkKfqpNpvo:APA91bG87w7ZPqBd9xL_Fta_1IW--K5tv7HR9Bi0y7h_yGKtrRl-A8qEgE0hHrnDp02H8SkilajkG-Ctd7-3F3CFTG1LhGNSwnT_3epBP6eOVzUFndzd8YT0eOtMUz-AtXVAES0alhQu</token>
+    </sys_push_notif_app_install>
+</record_update>

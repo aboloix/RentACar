@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rate_limit_rules">
+    <sys_rate_limit_rules action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api>Table API</api>
+        <api_resource>GET /now/table/{tableName}</api_resource>
+        <import_set_table/>
+        <name>TestRateLimit</name>
+        <requests>100</requests>
+        <rest_api_resource>GET /now/table/x_82916_rentacar_table</rest_api_resource>
+        <role display_value="rest_service" name="rest_service">3dfd67229f22110041a496fcc67fcf6c</role>
+        <sys_class_name>sys_rate_limit_rules</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-15 16:39:21</sys_created_on>
+        <sys_id>7ae7e35fdb6233000f18d426ca96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestRateLimit</sys_name>
+        <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+        <sys_update_name>sys_rate_limit_rules_7ae7e35fdb6233000f18d426ca96193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-15 16:39:21</sys_updated_on>
+        <table>x_82916_rentacar_table</table>
+        <type>Role</type>
+        <user/>
+        <version>latest</version>
+    </sys_rate_limit_rules>
+</record_update>

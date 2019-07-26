@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="car_id" label="Car ID" language="en" table="x_82916_rentacar_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>car_id</element>
+            <help/>
+            <hint/>
+            <label>Car ID</label>
+            <language>en</language>
+            <name>x_82916_rentacar_table</name>
+            <plural>Car IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-23 21:54:36</sys_created_on>
+            <sys_id>12745538db0533000f18d426ca9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Car ID</sys_name>
+            <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+            <sys_update_name>sys_documentation_x_82916_rentacar_table_car_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-23 21:54:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

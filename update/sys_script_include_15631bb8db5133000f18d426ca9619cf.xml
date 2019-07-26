@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_82916_rentacar.debuggingScript</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>debuggingScript</name>
+        <script><![CDATA[function debuggingScript() {
+	var helloText = 'Hello there';
+	
+	var a = new anotherDebuggingScript();
+	a.callMe();
+	
+	console.log(helloText);
+	
+}
+]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-06 17:26:26</sys_created_on>
+        <sys_id>15631bb8db5133000f18d426ca9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>debuggingScript</sys_name>
+        <sys_package display_value="RentACar" source="x_82916_rentacar">500311f4db0533000f18d426ca961918</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="RentACar">500311f4db0533000f18d426ca961918</sys_scope>
+        <sys_update_name>sys_script_include_15631bb8db5133000f18d426ca9619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-06 17:26:26</sys_updated_on>
+    </sys_script_include>
+</record_update>
